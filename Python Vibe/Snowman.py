@@ -38,10 +38,10 @@ turtle.end_fill()
  
 # Function to draw 1 small black circle
 def black_circle():
-	turtle.color("black")
-	turtle.begin_fill()
-	turtle.circle(10)
-	turtle.end_fill()
+    turtle.color("black")
+    turtle.begin_fill()
+    turtle.circle(10)
+    turtle.end_fill()
  
 # Eyes
 x = -20
