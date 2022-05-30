@@ -1,5 +1,5 @@
 from tkinter import *
-import sys
+import sys 
 import time
 global count
 count =0
