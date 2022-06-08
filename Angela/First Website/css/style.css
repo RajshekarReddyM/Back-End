@@ -1,0 +1,26 @@
+body {
+  background-color:#EAF6F6;
+}
+/* h1 {
+  color: Green;
+} */
+.Raj{
+  color: Black;
+  font-size: 50px;
+  font-weight: Bold;
+  font-family: cursive;
+}
+h3 {
+  color: bLUE;
+}
+hr {
+  color: pink;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+.cir {
+border-radius: 150%;
+
+}
